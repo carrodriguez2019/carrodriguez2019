@@ -45,6 +45,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=carrodriguez_2019&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carrodriguez_2019show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carrodriguez_2019&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrodriguez_2019)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrodriguez_2019&layout=compact)
