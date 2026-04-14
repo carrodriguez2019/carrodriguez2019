@@ -38,13 +38,9 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/carolina-rodriguez-data)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolina.rodriguez.guerra@gmail.com)
+## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carrodriguez_2019&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carrodriguez_2019&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=carrodriguez_2019&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrodriguez_2019&layout=compact)
