@@ -4,7 +4,7 @@
 ## 👩‍💻 System Engineer | QA | Data Enthusiast
 
 📍 Colombia 
-🗣️ Spanish 🇨🇴 | English 🇺🇸 (B1–B2)
+🗣️ Spanish 🇨🇴 | English 🇺🇸 (B2)
 
 💼 System Engineer with 12+ years of experience in software testing  
 🔍 Skilled in test case design, bug tracking & agile methodologies  
