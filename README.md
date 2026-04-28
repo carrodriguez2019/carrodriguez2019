@@ -9,7 +9,7 @@
 💼 System Engineer with 12+ years of experience in software testing  
 🔍 Skilled in test case design, bug tracking & agile methodologies  
 🤖 Currently learning Python & test automation  
-📊 Transitioning into Data Analysis  
+📊 Data Analyst Jr.
 
 🤝 Experience working with international teams 🇺🇸 🇮🇳 🇪🇺
 
