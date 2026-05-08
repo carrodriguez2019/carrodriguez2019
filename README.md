@@ -1,7 +1,7 @@
 
 # Hey, I'm Carolina 👋
 
-## 👩‍💻 System Engineer | QA | Data Enthusiast
+## 👩‍💻 System Engineer | QA | Data Analyst Jr
 
 📍 Colombia 
 🗣️ Spanish 🇨🇴 | English 🇺🇸 (B2)
